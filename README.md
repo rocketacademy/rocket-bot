@@ -4,6 +4,8 @@ All the dependencies are mentioned in the requirements.txt file. To install, run
 
 pip install -r requirements.txt
 
+https://api.slack.com/apps/A02AQ395B42/
+
 # Run the Flask server
 
 FLASK_APP=app.py FLASK_ENV=development flask run -p 3000
